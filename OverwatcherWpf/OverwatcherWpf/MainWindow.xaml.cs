@@ -17,7 +17,7 @@ using LiveCharts.Wpf;
 using Overwatcher;
 using System.ComponentModel;
 
-namespace OverwatcherWpf
+namespace Overwatcher
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -48,7 +48,7 @@ namespace OverwatcherWpf
 
         private void bgWorker_DoWork(object sender, System.ComponentModel.DoWorkEventArgs e)
         {
-            PlayOverwatchParser.UpdateAll();    
+            PlayerDataHandler.UpdateAll();    
         }
 
         private void bgWorker_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)

@@ -22,3 +22,26 @@ c:\Users\estev\Documents\Visual Studio 2013\Projects\OverwatcherWpf\OverwatcherW
 c:\Users\estev\Documents\Visual Studio 2013\Projects\OverwatcherWpf\OverwatcherWpf\obj\Debug\App.g.cs
 c:\Users\estev\Documents\Visual Studio 2013\Projects\OverwatcherWpf\OverwatcherWpf\bin\Debug\FontAwesome.WPF.dll
 c:\Users\estev\Documents\Visual Studio 2013\Projects\OverwatcherWpf\OverwatcherWpf\bin\Debug\FontAwesome.WPF.xml
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\OverwatcherWpf.exe.config
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\OverwatcherWpf.exe
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\OverwatcherWpf.pdb
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\OverwatcherWpf.exe
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\OverwatcherWpf.pdb
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\FontAwesome.WPF.dll
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\LiveCharts.dll
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\LiveCharts.Wpf.dll
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\FontAwesome.WPF.xml
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\HtmlAgilityPack.pdb
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\HtmlAgilityPack.xml
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\LiveCharts.pdb
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\LiveCharts.xml
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\LiveCharts.Wpf.pdb
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\bin\Debug\LiveCharts.Wpf.xml
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\OverwatcherWpf.csprojResolveAssemblyReference.cache
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\MainWindow.baml
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\MainWindow.g.cs
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\App.g.cs
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\OverwatcherWpf_MarkupCompile.cache
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\OverwatcherWpf.g.resources
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\OverwatcherWpf.csproj.GenerateResource.Cache
+G:\GitHub Desktop\Overwatcher\OverwatcherWpf\OverwatcherWpf\obj\Debug\Overwatcher.Properties.Resources.resources
