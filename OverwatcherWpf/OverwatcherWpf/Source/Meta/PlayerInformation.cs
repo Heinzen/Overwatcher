@@ -24,7 +24,7 @@ namespace Overwatcher
 
             Btag = btag;
             Nickname = btag.Substring(0, btag.IndexOf("-"));
-            FullPlayOverwatchUrl = UrlBuilder.BuildFullUrl();            
+            WebsiteToScrapeFrom = UrlBuilder.BuildFullUrl();            
         }
 
         public PlayerInformation(){ }
@@ -126,12 +126,12 @@ namespace Overwatcher
             set { PlayerInformation._competitiveMatches = value; }
         }
 
-        static string _fullPlayOverwatchUrl;
+        static string _webSiteToScrapeFrom;
 
-        public static string FullPlayOverwatchUrl
+        public static string WebsiteToScrapeFrom
         {
-            get { return PlayerInformation._fullPlayOverwatchUrl; }
-            set { PlayerInformation._fullPlayOverwatchUrl = value; }
+            get { return PlayerInformation._webSiteToScrapeFrom; }
+            set { PlayerInformation._webSiteToScrapeFrom = value; }
         }
 
         static float _winLoseRatio;

@@ -8,13 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/ow_bronze.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/ow_diamond.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/ow_gold.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/ow_grandmaster.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/ow_master.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/ow_platinum.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/ow_silver.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/ow_top_500.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/data/xmlfile1.xml")]
 
 

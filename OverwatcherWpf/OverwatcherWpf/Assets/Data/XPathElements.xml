@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HTMLXpaths>
+  <xpath id="CurrentSr">//*[@id="overview-section"]/div/div[2]/div/div/div[1]/div/div[2]/div</xpath>
+  <xpath id="CompetitiveMatchesTotal">//*[@id="competitive"]/section[3]/div/div[2]/div[7]/div/table/tbody/tr[1]/td[2]</xpath>
+  <xpath id="CompetitiveMatchesWon">//*[@id="competitive"]/section[3]/div/div[2]/div[7]/div/table/tbody/tr[2]/td[2]</xpath>
+  <xpath id="PrestigeBorder">//*[@id="overview-section"]/div/div[2]/div/div/div[1]/div/div[1]</xpath>
+  <xpath id="PrestigeRank">//*[@id="overview-section"]/div/div[2]/div/div/div[1]/div/div[1]/div[2]</xpath>
+  <xpath id="NonPrestigeLevel">//*[@id="overview-section"]/div/div[2]/div/div/div[1]/div/div[1]/div[1]</xpath>
+</HTMLXpaths>
